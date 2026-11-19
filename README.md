@@ -70,7 +70,7 @@ Examples:
 ### 5. Buttons and Cards
 The banner and card pages include styled buttons and reusable card components.
 
-## Technologies Used
+## Technologies Used hello
 
 - HTML5
 - Tailwind CSS (via CDN)
@@ -103,7 +103,7 @@ how to create flex and grid sections
 how to build simple cards and banners
 how to design without writing separate CSS files
 Project Purpose
-hello
+
 The main goal of this project is to practice Tailwind CSS basics in a simple way.
 It is suitable for students and beginners who want to understand modern front-end styling techniques.
 
